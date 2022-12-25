@@ -23,7 +23,7 @@ module.exports = [
     'microbitV2',
     'makeyMakey',
     // Third party
-    'deviceDemo_esp32',
-    'deviceDemo_arduinoEsp32',
-    'deviceDemo_microPythonEsp32'
+    //'deviceDemo_esp32',
+    //'deviceDemo_arduinoEsp32',
+    //'deviceDemo_microPythonEsp32'
 ];
