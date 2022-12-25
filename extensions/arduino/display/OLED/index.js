@@ -2,7 +2,7 @@ const OLEDYG = formatMessage => ({
     name: 'OLED',
     extensionId: 'OLEDYG',
     //version: '0.0.1',
-    supportDevice: ['ZQrobot201','ZQrobot202'],
+    supportDevice: ['RoboTexline','ZQrobot201','ZQrobot202'],
     //author: 'ArthurZheng',
     iconURL: `asset/oled.png`,
     featured: true,
