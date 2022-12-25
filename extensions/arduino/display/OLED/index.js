@@ -1,6 +1,6 @@
-const OLEDZQ = formatMessage => ({
+const OLEDYG = formatMessage => ({
     name: 'OLED',
-    extensionId: 'OLEDZQ',
+    extensionId: 'OLEDYG',
     //version: '0.0.1',
     supportDevice: ['ZQrobot201','ZQrobot202'],
     //author: 'ArthurZheng',
@@ -16,4 +16,4 @@ const OLEDZQ = formatMessage => ({
     //helpLink: 'https://openblockcc.gitee.io/wiki/main'
 });
 
-module.exports = OLEDZQ;
+module.exports = OLEDYG;
